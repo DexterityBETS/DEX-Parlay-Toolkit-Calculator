@@ -1,4 +1,5 @@
 # DEX Parlay Toolkit Calculator
+**▶️ Launch the app:** https://YOUR-USERNAME.github.io/YOUR-REPO/
 
 A tiny, single‑file web app that turns **Last 5** and **Key 3** results into a single **Projection Line** using Rae’s 60/40 method. Built to be extremely simple and phone‑friendly.
 
@@ -96,3 +97,4 @@ Then enable **Pages** as described above.
 
 ## 🛡️ Disclaimer
 For internal/educational use only. No guarantees or warranties. Always verify lines and payouts.
+
